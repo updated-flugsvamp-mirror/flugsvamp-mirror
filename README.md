@@ -22,4 +22,6 @@ It is important to acknowledge the risks involved in participating in such marke
 
 <a href="http://ikhpggtz3iv6gfebiqagmb4zto2e6xepocqjii3yvkrp27jwzlds2lqd.onion"><img src="/static/bitmap.webp" alt="image" style="max-width: 100%;"></a>  <a href="http://ikhpggtz3iv6gfebiqagmb4zto2e6xepocqjii3yvkrp27jwzlds2lqd.onion"><img src="/static/pause.webp" alt="image" style="max-width: 100%;"></a>
 
-Update:  11 June 2025 Guest links
+
+
+Update: link is operational and accessible
