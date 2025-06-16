@@ -24,4 +24,6 @@ It is important to acknowledge the risks involved in participating in such marke
 
 
 
-Update: link is operational and accessible
+
+
+Update:  16 June 2025 Updated third-party library links
