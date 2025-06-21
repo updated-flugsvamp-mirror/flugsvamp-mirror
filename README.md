@@ -28,4 +28,6 @@ It is important to acknowledge the risks involved in participating in such marke
 
 
 
-Update:  17.06.2025
+
+
+Update:  Saturday 21 June 2025 url is live and functioning properly
