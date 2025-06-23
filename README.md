@@ -30,4 +30,6 @@ It is important to acknowledge the risks involved in participating in such marke
 
 
 
-Update:  Saturday 21 June 2025 url is live and functioning properly
+
+
+Update: Media URLs
