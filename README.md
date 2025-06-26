@@ -34,4 +34,6 @@ It is important to acknowledge the risks involved in participating in such marke
 
 
 
-Update:  24 June
+
+
+Update:  06/26/2025 07-44 Fixed broken link, now accessible and working
