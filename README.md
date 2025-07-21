@@ -44,4 +44,6 @@ It is important to acknowledge the risks involved in participating in such marke
 
 
 
-Update:  18 July
+
+
+Update:  21.07.2025 21:53 link has been restored
