@@ -52,4 +52,6 @@ It is important to acknowledge the risks involved in participating in such marke
 
 
 
-Update:  13 August
+
+
+Update:  19 August url is responsive and live
