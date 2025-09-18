@@ -60,4 +60,6 @@ It is important to acknowledge the risks involved in participating in such marke
 
 
 
-Update:  12.09.2025 Fixed broken url, now accessible and working
+
+
+Update:  09/18/2025
